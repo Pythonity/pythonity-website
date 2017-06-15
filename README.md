@@ -14,4 +14,4 @@ Released under [MIT License][license].
 [license]: https://github.com/Pythonity/pythonity-website/blob/master/LICENSE
 [odyniec]: https://github.com/odyniec
 [pawelad]: https://github.com/pawelad
-[pythonity]: https://pythonity.com
+[pythonity]: https://pythonity.com/
